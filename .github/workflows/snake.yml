@@ -11,27 +11,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@8f4b7f84864484a7bf31766abe9204da3cbe65b3
+      - uses: actions/checkout@v4
 
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@e6d3c6f9c3b6fd07b7cfbc1f1a8f7b11ac0cba30
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@64b3a2b9d12b35a1b9a2c2c7d92f5b53b5c9a7b0
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: dist
           publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
