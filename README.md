@@ -1,9 +1,29 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Anushka;Full+Stack+Developer;Creative+Thinker;Code+&+Design+Enthusiast" alt="Typing SVG" />
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=40&duration=3000&pause=1000&color=2ea44f&width=600&lines=HEYY!+I'M+ANUSHKA+SHARMA;" />
+  </a>
 </div>
 
-<div align="center">
-  <a href="https://instagram.com/anuus_h_ka">
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=20&duration=2500&pause=500&color=2ea44f&width=600&lines=%3E+FULL+STACK+DEVELOPER...;%3E+Creative+Thinker...;%3E+Code+and+Design+Enthusiast" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<table align="left">
+  <tr>
+    <td width="220" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHR6eW54M3B6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Y0D5Z0Q3w6j2/giphy.gif" width="220" style="border: 2px solid #2ea44f;" alt="Coding Animation" />
+    </td>
+    <td valign="top">
+      <h3 style="color: #2ea44f; margin-top: 0;">> ABOUT_ME</h3>
+      <samp>
+        <b>[✓] </b> 👩‍🎓student <br/>
+        <b>[✓] </b> I’m currently working on myself. <br/>
+        <b>[✓] </b> I’m looking to collaborate in tech world. <br/>
+        <b>[✓] </b> I’m currently learning good skill and like to travel <br/>
+        <br/>
+       <a href="https://instagram.com/anuus_h_ka">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/anushka-sharma-644063295">
@@ -15,68 +35,39 @@
   <a href="https://x.com/@anushka33174522">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right">
- 
-  <samp>
-    <h3>👨‍💻 About Me</h3>
-    <ul>
-      <li>🔭 Currently working on <b>Personal Development & Scalable Apps</b></li>
-      <li>🌱 Learning <b>Advanced System Design</b></li>
-      <li>👯 Looking to collaborate on <b>Open Source Projects</b></li>
-      <li>⚡ Fun fact: <b>I code, I travel, I conquer.</b></li>
-    </ul>
-  </samp>
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
-
-### 🛠️ Technologies & Tools
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python" width="180" alt="Languages" /><br>
-      <b>Languages</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" width="400" alt="Frontend" /><br>
-      <b>Frontend</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,spring" width="180" alt="Backend" /><br>
-      <b>Backend</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,gcp,vercel,netlify,git,github" width="400" alt="Cloud & DB" /><br>
-      <b>Cloud & Tools</b>
-    </td>
-  </tr>
-    <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=figma,blender,xd,threejs" width="180" alt="Design" /><br>
-      <b>Design & 3D</b>
+      </samp>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=OopsAnushka&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+<br clear="all"/>
+<br/>
+
+<h3 align="left" style="color: #2ea44f;">> TECHNOLOGY_USED</h3>
+<div align="left" style="border-left: 3px solid #2ea44f; padding-left: 20px;">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,spring,html,css,tailwind&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,firebase,mongodb,mysql,figma,threejs&theme=dark" />
+</div>
+
+<br/>
+
+<h3 align="left" style="color: #2ea44f;">> DIAGNOSTICS</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OopsAnushka&show_icons=true&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="languages graph" />
+</div>
+
+<br clear="all"/>
+<br/>
+
+<h3 align="left" style="color: #2ea44f;">> ACTIVITY_LOG</h3>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
