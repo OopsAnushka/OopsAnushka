@@ -66,8 +66,12 @@
 <h3 align="left" style="color: #2ea44f;">> ACTIVITY_LOG</h3>
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
+    <img alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
   </picture>
 </div>
+
