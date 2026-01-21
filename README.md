@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Anushka+Sharma;Full+Stack+Developer;Creative+Thinker;Code+&+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Anushka;Full+Stack+Developer;Creative+Thinker;Code+&+Design+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,9 +37,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anushka-sharma-644063295/anushka-sharma-644063295/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/anushka-sharma-644063295/anushka-sharma-644063295/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/anushka-sharma-644063295/anushka-sharma-644063295/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/OopsAnushka/OopsAnushka/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -77,6 +77,6 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka-sharma-644063295&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-sharma-644063295&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OopsAnushka&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
