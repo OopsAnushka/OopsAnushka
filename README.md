@@ -1,17 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=40&duration=3000&pause=1000&color=2ea44f&width=600&lines=HEYY!+I'M+ANUSHKA+SHARMA;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=40&duration=3000&pause=1000&color=2ea44f&center=true&vCenter=true&width=600&lines=HEYY!+I'M+ANUSHKA+SHARMA;" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
-    <img alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
   </picture>
 </div>
 
@@ -23,8 +20,8 @@
 
 <table align="left">
   <tr>
-    <td width="220" valign="top">
-      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHR6eW54M3B6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Y0D5Z0Q3w6j2/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN2dDVvaHo0enJreGo3aHl4Z2U3YnR0Z3R0amppamFua3g3N2JlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="220" style="border: 2px solid #2ea44f;" alt="Coding Animation" />
+    <td width="220" valign="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #2ea44f;" alt="Coding Animation" />
     </td>
     <td valign="top">
       <h3 style="color: #2ea44f; margin-top: 0;">> ABOUT_ME</h3>
@@ -32,20 +29,20 @@
         <b>[✓] </b> 👩‍🎓student <br/>
         <b>[✓] </b> I’m currently working on myself. <br/>
         <b>[✓] </b> I’m looking to collaborate in tech world. <br/>
-        <b>[✓] </b> I’m currently learning good skill and like to travel <br/>
+        <b>[✓] </b> I’m currently learning new skills and like to travel <br/>
         <br/>
-       <a href="https://instagram.com/anuus_h_ka">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/anushka-sharma-644063295">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://pinterest.com/anushkasharma8418">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  <a href="https://x.com/@anushka33174522">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
+        <a href="https://instagram.com/anuus_h_ka">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+        </a>
+        <a href="https://linkedin.com/in/anushka-sharma-644063295">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://pinterest.com/anushkasharma8418">
+          <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+        </a>
+        <a href="https://x.com/@anushka33174522">
+          <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+        </a>
       </samp>
     </td>
   </tr>
@@ -70,7 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OopsAnushka&show_icons=true&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="languages graph" />
 </div>
-
-<br clear="all"/>
-<br/>
-
