@@ -1,7 +1,18 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=40&duration=3000&pause=1000&color=2ea44f&width=600&lines=HEYY!+I'M+ANUSHKA+SHARMA;" />
   </a>
+</div>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
+    <img alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
+  </picture>
 </div>
 
 <div align="left">
@@ -13,7 +24,7 @@
 <table align="left">
   <tr>
     <td width="220" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHR6eW54M3B6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Y0D5Z0Q3w6j2/giphy.gif" width="220" style="border: 2px solid #2ea44f;" alt="Coding Animation" />
+      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHR6eW54M3B6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MzB6ZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Y0D5Z0Q3w6j2/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN2dDVvaHo0enJreGo3aHl4Z2U3YnR0Z3R0amppamFua3g3N2JlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="220" style="border: 2px solid #2ea44f;" alt="Coding Animation" />
     </td>
     <td valign="top">
       <h3 style="color: #2ea44f; margin-top: 0;">> ABOUT_ME</h3>
@@ -62,16 +73,4 @@
 
 <br clear="all"/>
 <br/>
-
-<h3 align="left" style="color: #2ea44f;">> ACTIVITY_LOG</h3>
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
-    <img alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/OopsAnushka/OopsAnushka/output/github-snake.svg">
-  </picture>
-</div>
 
