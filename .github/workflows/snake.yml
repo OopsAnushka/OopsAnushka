@@ -1,35 +1,39 @@
 name: Generate snake animation
 
 on:
-  schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main # or 'main'
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master # or 'main'
 
 jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@e2cedf76a2c05b25d09a6428ded69727b497a700
-        with:
-          github_user_name: OopsAnushka
-          # HERE IS THE CHANGE: We add the token input so it can see private repos
-          github_token: ${{ secrets.PAT_TOKEN }}
-        outputs: |
-            dist/github-snake.svg?color_snake=#6A5ACD&color_dots=#ebedf0,#e1dff5,#beb8e6,#9d92d7,#6A5ACD
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6A5ACD&color_dots=#161b22,#3d346d,#504494,#6354bc,#6A5ACD
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          # We can keep using the default token for PUSHING, that's fine.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@e2cedf76a2c05b25d09a6428ded69727b497a700
+        with:
+          github_user_name: OopsAnushka
+          # HERE IS THE CHANGE: We add the token input so it can see private repos
+          github_token: ${{ secrets.PAT_TOKEN }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#2ea44f&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2ea44f&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          # We can keep using the default token for PUSHING, that's fine.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+i want to change the snake color with #6A5ACD
