@@ -64,6 +64,14 @@
 
 <h3 align="left" style="color: #2ea44f;">> DIAGNOSTICS</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OopsAnushka&show_icons=true&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&align=left" height="150" alt="languages graph" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OopsAnushka&show_icons=true&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&bg_color=0D1117" height="150" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OopsAnushka&layout=compact&theme=dark&hide_border=true&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&bg_color=0D1117" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 </div>
